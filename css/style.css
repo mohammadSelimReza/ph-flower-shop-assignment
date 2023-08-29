@@ -165,6 +165,14 @@ p {
   padding: 15px;
   border: none;
 }
+/* extra section */
+.order {
+  height: 450px;
+}
+.order-img {
+  height: 450px;
+}
+
 /* footer */
 .footer {
   height: 449px;
